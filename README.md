@@ -12,3 +12,11 @@ A simple and clean study planner web app built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
+  
+ ## 📌 Future Improvements
+- Save tasks using localStorage
+- Add due dates
+- Add subject categories
+- Dark mode
+
+
